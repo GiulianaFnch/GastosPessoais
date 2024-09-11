@@ -11,9 +11,9 @@
 
 ## Capturas de Tela
 
-![Inicial](images/home)
-![Histórico](images/historico)
-![Registro](images/registro)
+![Inicial](images/home.png)
+![Histórico](images/historico.png)
+![Registro](images/registro.png)
 
 
 ## Instalação
