@@ -78,7 +78,7 @@ Se você deseja contribuir para o projeto, siga estas etapas:
 Se você tiver dúvidas ou precisar de mais informações, entre em contacto comigo:
 
 - **Email**: finochio44@gmail.com
-- **LinkedIn**: [Giuliana Finochio](https://www.linkedin.com/in/giulianafnc](https://www.linkedin.com/in/giuliana-finochio-b8a42a225/)
+- **LinkedIn**: [Giuliana Finochio][https://www.linkedin.com/in/giuliana-finochio-b8a42a225/]
 
 ---
 
