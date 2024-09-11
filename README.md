@@ -11,9 +11,7 @@
 
 ## Capturas de Tela
 
-![Página Inicial](images/Simulator Screenshot - iPhone 15 Pro - 2024-09-11 at 18.34.08.png)
-![Novo Registro](images/Simulator Screenshot - iPhone 15 Pro - 2024-09-11 at 18.34.08.png)
-![Histórico](images/Simulator Screenshot - iPhone 15 Pro - 2024-09-11 at 18.34.08.png)
+![Histórico](images/historico)
 
 
 ## Instalação
