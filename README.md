@@ -23,7 +23,7 @@ Para rodar o projeto localmente, siga estas etapas:
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/<USERNAME>/GastosPessoais.git
+   git clone https://github.com/GiulianaFnch/GastosPessoais.git
 
 ## Instalação
 
